@@ -6,24 +6,27 @@ const About = ({ sectionRef }) => {
     >
       <p className="font-mono">A little about me...</p>
       <p>
-        I recently graduated from the <b>Programme of Systems Analysis</b> at Örebro University in
-        Sweden. My passion for technology began early in life, with computers having played a
-        central role in shaping my interests and skills over the years.
+        I hold a <b>Bachelor's degree in Informatics</b> from Örebro University, where I completed
+        the <b>Systems Analysis Programme</b> in June 2025. Since graduating, I have worked with
+        business development, machine virtualization, Networking and integration flows, while also
+        earning certifications in integration development on the Frends integration platform.
       </p>
       <p>
-        My academic journey has further deepened this passion, especially
-        for problem-solving and designing user-centric, robust, and scalable systems. I thrive in
-        environments where complex challenges need elegant and efficient solutions. <b>My goal</b>{' '}
-        is to leverage my skills and knowledge to create impactful solutions that not only solves
-        real-world problems but also enhances user experiences.
+        My main passion lies in web and software development. I enjoy building solutions that are
+        both practical and well-structured, and I am motivated by the idea of using my development
+        skills to solve real problems and create meaningful value. At the same time, continuous
+        learning is a big part of who I am, and personal growth is something I place high value on
+        in both my professional and personal life.
       </p>
       <p>
-        My <b>attention to detail</b> and <b>analytical ability</b> ensures that the work I produce is not only functional but
-        also meticulously crafted to meet high standards of usability, quality and performance.
+        Would describe myself as driven, social, communicative, and detail-oriented. I enjoy
+        collaborating with others, understanding needs from different perspectives, and turning
+        ideas into concrete solutions.
       </p>
       <p>
-        As I look toward <b>the next step</b> in my career, I’m excited to bring my commitment to
-        excellence, eye for detail and technical expertise into a professional setting.
+        Outside of tech, I have a strong interest in stocks and investing, and I also enjoy playing
+        golf. I am also highly competitive by nature, which shows in gaming as well. For example, in
+        CS2, I have ranked around 100 out of 120,000 players in Sweden on Faceit.
       </p>
     </section>
   );
